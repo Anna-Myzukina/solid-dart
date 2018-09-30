@@ -1,3 +1,7 @@
+## 0.1.3
+
+- Improved Pub listing with a longer description, and an example file.
+
 ## 0.1.2
 
 - Proper instructions in README.md for usage.

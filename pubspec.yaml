@@ -1,6 +1,6 @@
 name: solid
-description: Dart Interop Library for https://solid.inrupt.com
-version: 0.1.2
+description: Solid allows use of Tim Berners-Lee's new platform for a decentralized web, https://solid.inrupt.com/, from within dart. Currently only includes solid.auth.
+version: 0.1.3
 homepage: https://github.com/TheJamesBM/solid-dart
 author: James Madden <jamesbmadden@gmail.com>
 
