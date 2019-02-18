@@ -4,7 +4,6 @@ import 'package:solid/solid.dart' as solid;
 void main() {
 
   solid.Auth.trackSession((session) {
-    print(session != null);
     querySelector('#login').style.display = session != null ? 'none' : 'block';
     querySelector('#logout').style.display = session == null ? 'none' : 'block';
     querySelector('#user').innerHtml = session.webId;
