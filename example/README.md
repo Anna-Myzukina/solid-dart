@@ -1,6 +1,6 @@
 # Examples
 ## Auth Example
-```auth.dart``` contains an example authentication app:
+auth.dart contains an example authentication app:
 ```dart
 import 'dart:html';
 import 'package:solid/solid.dart' as solid;
@@ -25,7 +25,7 @@ void main() {
 }
 ```
 ## Auth and Rdflib Example
-```auth-rdflib.dart``` contains an example of getting the signed in users data.
+auth-rdflib.dart contains an example of getting the signed in users data.
 ```dart
 import 'dart:html';
 import 'package:solid/solid.dart' as solid;
