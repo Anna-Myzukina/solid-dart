@@ -1,3 +1,8 @@
+## 0.2.2
+
+- Formatted Files using dartfmt.
+- Added example/README.md
+
 ## 0.2.1
 
 - Started Adding Documentation. Only certain methods are documented.

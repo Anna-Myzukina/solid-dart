@@ -2,7 +2,7 @@
 
 Solid allows use of Tim Berners-Lee's new platform for a decentralized web, [Solid](https://solid.inrupt.com/), from within dart.
 
-Currently only includes solid.auth.
+This package includes the solid library, and some of rdflib.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Install Solid from pub:
 
 ```yaml
 dependencies:
-    solid: ^0.2.1
+    solid: ^0.2.2
 ```
 
 Include solid-auth-client.bundle.js in your HTML **before** your dart file.
