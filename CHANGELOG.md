@@ -1,3 +1,7 @@
+## 0.2.3
+
+- Fixed example/README.md
+
 ## 0.2.2
 
 - Formatted Files using dartfmt.
