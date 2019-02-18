@@ -1,3 +1,7 @@
+## 0.2.0
+
+- Added ```package:solid/rdflib.dart```.
+
 ## 0.1.3
 
 - Improved Pub listing with a longer description, and an example file.
