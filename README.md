@@ -10,7 +10,7 @@ Install Solid from pub:
 
 ```yaml
 dependencies:
-    solid: ^0.2.0
+    solid: ^0.2.1
 ```
 
 Include solid-auth-client.bundle.js in your HTML **before** your dart file.

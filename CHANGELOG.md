@@ -1,3 +1,7 @@
+## 0.2.1
+
+- Started Adding Documentation. Only certain methods are documented.
+
 ## 0.2.0
 
 - Added ```package:solid/rdflib.dart```.
