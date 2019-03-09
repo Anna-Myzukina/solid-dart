@@ -1,3 +1,5 @@
+![Solid-Dart Logo](https://jamesbmadden.github.io/solid-dart/icon.svg)
+
 # Solid
 
 Solid allows use of Tim Berners-Lee's new platform for a decentralized web, [Solid](https://solid.inrupt.com/), from within dart.
